@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## _<br>My self <span style="background-color:red;">Shaheryar Shaikh</span>, a 19 year old Computer Science Student Who loves Learning new Things.........</br>_
+## _<br>I am <span style="background-color:red;">Shaheryar Shaikh</span>, a 19 year old Computer Science Student Who loves Learning new Things.........</br>_
 ![](https://komarev.com/ghpvc/?username=shaheryarshaikh1011&color=010040&style=flat-square)
  [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaheryar-shaikh-0391451a4/)
  [![](https://img.shields.io/badge/.-Gmail-Red?style=for-the-badge&logo=gmail)](mailto:sherishaikh2611@gmail.com)
