@@ -7,7 +7,7 @@
 
  #### 🌱 Currently Learning Node JS and Android development
  #### 👬 Like to collaborate on website projects using Rest API's in Javascript<br>
- #### 💬 Ask me about Node,Express,Mongo..
+ #### 💬 Ask me about Node,Express,Mongo,Java..
 👨🏻‍💻Some of my projects <br>
   * <a href="https://github.com/shaheryarshaikh1011/hms">Hospital Management System</a> 
   * <a href="https://github.com/shaheryarshaikh1011/yelpcamp">Yelpcamp</a>
