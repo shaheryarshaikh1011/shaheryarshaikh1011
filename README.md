@@ -6,7 +6,7 @@
  [![](https://img.shields.io/badge/.-Gmail-Red?style=for-the-badge&logo=gmail)](mailto:sherishaikh2611@gmail.com)
  <br>
 <br>
- <img alt="GIF" src="https://github.com/adithyapaib/adithyapaib/blob/master/code.gif?raw=true" width="400" height="256" />
+ <img alt="GIF" src="https://raw.githubusercontent.com/shaheryarshaikh1011/shaheryarshaikh1011/master/code.gif?raw=true" width="400" height="256" />
  <br>
  <br>
 
