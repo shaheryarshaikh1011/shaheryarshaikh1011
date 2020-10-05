@@ -3,7 +3,9 @@
 ## _<br>I am <span style="background-color:red;">Shaheryar Shaikh</span>, a 19 year old Computer Science Student Who loves Learning new Things.........</br>_
 ![](https://komarev.com/ghpvc/?username=shaheryarshaikh1011&color=010040&style=flat-square)
  [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaheryar-shaikh-0391451a4/)
- [![](https://img.shields.io/badge/.-Gmail-Red?style=for-the-badge&logo=gmail)](mailto:sherishaikh2611@gmail.com)
+ [![](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:sherishaikh2611@gmail.com)
+ [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/starkastic.af/)
+ 
  <br>
 <br>
  <img alt="GIF" src="https://raw.githubusercontent.com/shaheryarshaikh1011/shaheryarshaikh1011/master/code.gif?raw=true" width="400" height="256" />
