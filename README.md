@@ -23,8 +23,10 @@
   * <a href="https://github.com/shaheryarshaikh1011/Colorgame1011">Colorgame web app</a>
   
 👨🏻‍💻projects i have contributed to <br>
- * <a href="https://github.com/shaheryarshaikh1011/URLshortner">URLshortener</a>
- * <a href="https://github.com/shaheryarshaikh1011/cheems">Cheems</a>
+ * <a href="https://github.com/fredysomy/URLshortner">URLshortener</a>
+ * <a href="https://github.com/adithyapaib/cheems">Cheems</a>
+ * <a href="https://github.com/namishkhanna/hacktoberfest2020">Hacktoberfest2020</a>
+ 
 
 
 ### Languages and Tools: 
