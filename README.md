@@ -42,4 +42,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheryarshaikh1011&&show_icons=true&title_color=151515&icon_color=bb2acf&text_color=151515&bg_color=ffffff)](https://github.com/shaheryarshaikh1011/)
 ![shaheryar's github stats](https://github-readme-stats.vercel.app/api?username=shaheryarshaikh1011&show_icons=true&hide=["issues"])
 
+![Metrics](https://metrics.lecoq.io/shaheryarshaikh1011?template=classic&config.timezone=Asia%2FCalcutta)
+
 <a href="https://www.buymeacoffee.com/shaheryarshaikh">Buy me a coffee</a> 
