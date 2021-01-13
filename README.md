@@ -38,8 +38,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheryarshaikh1011&&show_icons=true&title_color=151515&icon_color=bb2acf&text_color=151515&bg_color=ffffff)](https://github.com/shaheryarshaikh1011/)
+![Metrics](https://metrics.lecoq.io/shaheryarshaikh1011?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&config.timezone=Asia%2FCalcutta)(https://github.com/shaheryarshaikh1011/)
 ![shaheryar's github stats](https://github-readme-stats.vercel.app/api?username=shaheryarshaikh1011&show_icons=true&hide=["issues"])
 
 ![Metrics](https://metrics.lecoq.io/shaheryarshaikh1011?template=classic&config.timezone=Asia%2FCalcutta)
