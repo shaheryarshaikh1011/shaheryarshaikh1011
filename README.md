@@ -9,7 +9,10 @@
  
  <br>
 <br>
- <img alt="GIF" src="https://raw.githubusercontent.com/shaheryarshaikh1011/shaheryarshaikh1011/master/code.gif?raw=true" width="400" height="256" />
+<a href="https://shaheryarshaikh.me">
+         <img src="https://raw.githubusercontent.com/shaheryarshaikh1011/shaheryarshaikh1011/master/code.gif?raw=true" width="400" height="256">
+</a>
+
  <br>
  <br>
 
