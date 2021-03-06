@@ -6,8 +6,9 @@
  [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaheryar-shaikh-0391451a4/)
  [![](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:sherishaikh2611@gmail.com)
  [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/starkastic.af/)
+ <a href="https://dev.to/shaheryarshaikh1011">
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shaheryar Shaikh's DEV Community Profile" height="30" width="30">
- 
+ </a>
  <br>
 <br>
 <a href="https://shaheryarshaikh.me">
