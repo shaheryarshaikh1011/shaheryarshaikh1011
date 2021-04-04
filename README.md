@@ -24,6 +24,8 @@
 👨🏻‍💻Some of my projects <br>
   
   * <a href="https://github.com/shaheryarshaikh1011/hms">HMS</a>
+  * <a href="https://github.com/shaheryarshaikh1011/youbookk">YouBook</a>
+  * <a href="https://github.com/shaheryarshaikh1011/postgress_api_nodejs">Postgress Api </a>
   * <a href="https://github.com/shaheryarshaikh1011/yelpcamp">Yelpcamp</a>
   * <a href="https://github.com/shaheryarshaikh1011/authdemo">Authentication demo</a>
   * <a href="https://github.com/shaheryarshaikh1011/BlogApp">Blog App</a>
