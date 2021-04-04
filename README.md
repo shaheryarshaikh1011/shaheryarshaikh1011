@@ -38,7 +38,7 @@
  
  
 👨🏻‍💻Checkout Study Resources for TCS NQT <br>
-* <a href=https://github.com/shaheryarshaikh1011/tcs_prep">TCS Programming</a>
+* <a href="https://github.com/shaheryarshaikh1011/tcs_prep">TCS Programming</a>
 
 ### Languages and Tools: 
 
