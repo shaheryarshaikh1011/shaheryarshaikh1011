@@ -55,4 +55,6 @@
 <br>
 
 
+[![Shaheryar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaheryarshaikh1011&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://www.buymeacoffee.com/shaheryarshaikh">Buy me a coffee</a> 
