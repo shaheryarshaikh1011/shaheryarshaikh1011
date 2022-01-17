@@ -18,7 +18,7 @@
  <br>
  <br>
 
- #### 🌱 Currently Learning Node JS and Android development
+ #### 🌱 Currently Learning Node JS and Android development and C#
  #### 👬 Like to collaborate on website projects using Rest API's in Javascript<br>
  #### 💬 Ask me about Node,Express,Mongo,Java..
 👨🏻‍💻Some of my projects <br>
