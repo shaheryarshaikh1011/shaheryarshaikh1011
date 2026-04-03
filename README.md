@@ -54,6 +54,6 @@
 <br>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shaheryar1011&theme=merko&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shaheryarshaikh1011&theme=merko&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 <a href="https://www.buymeacoffee.com/shaheryarshaikh">Buy me a coffee</a> 
